@@ -11,4 +11,3 @@ def reverse_each_word(string)
     i.reverse.join(" ")
   end
 end
-
